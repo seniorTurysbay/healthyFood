@@ -1,0 +1,22 @@
+{
+  "name": "healthy_food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seniorTurysbay/healthyFood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seniorTurysbay/healthyFood/issues"
+  },
+  "homepage": "https://github.com/seniorTurysbay/healthyFood#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
